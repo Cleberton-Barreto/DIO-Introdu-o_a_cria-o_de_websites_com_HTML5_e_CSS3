@@ -75,6 +75,16 @@ Em 1991 Tim Berners-Lee criou essa linguagem de marcação para melhorar a comun
 
   O target neste momento vai servir para nos ajudar a abrir nossos links em outra aba do navegador usando o valor _blank.
 
+  Syntax de como adicionar um link:
+
+  < a>Link< /a>
+
+  < a href="linkedin.com/in/cleberton-junior">LinkedIn< /a>
+
+  < a href="mailto:juninhus_jnr@hotmail.com">E-mail< /a>
+
+  < a target="_blank">Link< /a> 
+
 ###### img
 
 - A web também é feita de imagens e para representá-las temos o elemento "img", ele é um daqueles elementos sem tag de fechamento.
