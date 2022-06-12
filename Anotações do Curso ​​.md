@@ -1,4 +1,4 @@
-## Objetivos do Curso :bookmark_tabs:
+## Objetivos do Curso HTML5 :bookmark_tabs:
 
 1. História e estrutura básica
 2. Semântica
@@ -79,9 +79,9 @@ Em 1991 Tim Berners-Lee criou essa linguagem de marcação para melhorar a comun
 
   < a>Link< /a>
 
-  < a href="linkedin.com/in/cleberton-junior">LinkedIn< /a>
+  < a href="linkedin.com" target="_blank">LinkedIn< /a>
 
-  < a href="mailto:juninhus_jnr@hotmail.com">E-mail< /a>
+  < a href="mailto:FulanoDeTal@gmail.com" target="_blank">E-mail< /a>
 
   < a target="_blank">Link< /a> 
 
@@ -97,7 +97,7 @@ Em 1991 Tim Berners-Lee criou essa linguagem de marcação para melhorar a comun
 
   Syntax do elemento "img";
 
-  img src="nome exato da imagem com sua devida extensão.jpg" alt="descrição da imagem"
+  < img src="nome exato da imagem com sua devida extensão.jpg ou caminho exato, caso esteja em outra pasta ou link de onde a imagem está" alt="descrição da imagem">
 
 ###### ul, ol, li
 
