@@ -220,7 +220,7 @@ E aproveitando que mostrei esse código temos que falar sobre como separar a est
 
 ​	Já sabemos que podemos mudar cor e tamanho de algumas fontes, e agora vamos nos aprofundar nisso.
 
-- **font-family - ** Com o font-family podemos alterar a fonte dos nossos textos, como uma fonte da internet ou uma que esteja instalada no nosso computador, mas vamos nos ater às fontes seguras, chamadas de web safe fonts.
+- **font-family-** Com o font-family podemos alterar a fonte dos nossos textos, como uma fonte da internet ou uma que esteja instalada no nosso computador, mas vamos nos ater às fontes seguras, chamadas de web safe fonts.
 
   Essas fontes são chamadas assim pois são encontradas em quases todos os sistemas e podem ser usadas sem preocupação.
 
@@ -230,25 +230,25 @@ E aproveitando que mostrei esse código temos que falar sobre como separar a est
 
   ​
 
-- **font-size - ** O font-size nos ajuda a mudar o tamanho do texto, existem algumas unidades de medida para ele mas por enquanto os pixels são suficientes para nós.
+- **font-size-** O font-size nos ajuda a mudar o tamanho do texto, existem algumas unidades de medida para ele mas por enquanto os pixels são suficientes para nós.
 
-- **font-style - ** Usamos o font-style para tornar um texto itálico, na maioria das vezes você usará apenas o valor *italic* para ele, mas se precisar tirar o itálico de um texto você pode usar o valor *normal*.
+- **font-style-** Usamos o font-style para tornar um texto itálico, na maioria das vezes você usará apenas o valor *italic* para ele, mas se precisar tirar o itálico de um texto você pode usar o valor *normal*.
 
-- **font-weight: normal - ** Mantem nosso texto com uma formatação simples.
+- **font-weight: normal-** Mantem nosso texto com uma formatação simples.
 
-- **font-weight: bold - ** Com o atributo **bold** nosso texto vai ficar em negrito.
+- **font-weight: bold-** Com o atributo **bold** nosso texto vai ficar em negrito.
 
-- **text-transform: uppercase - ** Joga todo o texto para maiúsculo.
+- **text-transform: uppercase-** Joga todo o texto para maiúsculo.
 
-- **text-transform: lowercase - ** Joga todo o texto para minúsculo.
+- **text-transform: lowercase-** Joga todo o texto para minúsculo.
 
-- **text-transform: capitalize - ** Joga a inicial de cada palavra do texto em maiúscula.
+- **text-transform: capitalize-** Joga a inicial de cada palavra do texto em maiúscula.
 
-- **text-decoration: underline - ** Coloca uma linha abaixo do texto.
+- **text-decoration: underline-** Coloca uma linha abaixo do texto.
 
-- **text-decoration: overline - ** Coloca uma linha acima do texto.
+- **text-decoration: overline-** Coloca uma linha acima do texto.
 
-- **text-decoration: line-through - ** Coloca uma linha no meio do texto.
+- **text-decoration: line-through-** Coloca uma linha no meio do texto.
 
 
 
